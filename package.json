@@ -15,7 +15,7 @@
     "cors",
     "dotenv"
   ],
-  "author": "Pamella Pereto",
+  "author": "Matheus Rodrigues",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -23,5 +23,13 @@
     "express": "^5.1.0",
     "mysql2": "^3.14.1",
     "yarn": "^1.22.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gateiro/API-Taskmanager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gateiro/API-Taskmanager/issues"
+  },
+  "homepage": "https://github.com/Gateiro/API-Taskmanager#readme"
 }
